@@ -5,9 +5,7 @@ git clone https://github.com/MrChaby/MsJessica
 
 cd MsJessic
 
-npm i @adiwanjshing/baileys
-
-npm i chalk
+npm i
 
 node qr.js
 
