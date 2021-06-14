@@ -11,7 +11,7 @@ npm i chalk
 
 node qr.js
 
-https://heroku.com/deploy?template=https://github.com/MrChaby/MsJessica
+
 
 ```
 
