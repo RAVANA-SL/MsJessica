@@ -1,13 +1,18 @@
 ## Setup
 ### The Hard Method(Not Supported for this version!!)
 ```js
-$ git clone https://github.com/MrChaby/MsJessica.git
-$ cd MsJessica
-$ npm i
-$ nano Config.env
-// Config.env oluşturun ve düzenleyin.
-// Config.env create and edit.
-$ node bot.js
+git clone https://github.com/MrChaby/MsJessica
+
+cd MsJessic
+
+npm i @adiwanjshing/baileys
+
+npm i chalk
+
+node qr.js
+
+https://heroku.com/deploy?template=https://github.com/MrChaby/MsJessica
+
 ```
 
 
