@@ -1,9 +1,4 @@
 ## Setup
-### Very Simple Method
-`There is no support. Maybe I will handle it..`
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kappithannemo/WhatsAsenaDuplicated)
-
 ### The Hard Method(Not Supported for this version!!)
 ```js
 $ git clone https://github.com/MrChaby/MsJessica.git
