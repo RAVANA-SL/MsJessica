@@ -368,7 +368,7 @@ Asena.addCommand({pattern: 'snow ?(.*)', fromMe: false, dontAddCommandList: true
 
     if (match[1] ===   ) return await message.client.sendMessage(message.jid,NEED_WORD);
 
-    var webimage = await axios.get(`https://api.zeks.xyz/api/brand-logo?apikey=JjZNCM09grxvXLEZmJxl17iENpW&text=ZEKS%20API&type=1[1]}`, { responseType:  arraybuffer  })
+    var webimage = await axios.get(`https://api.zeks.xyz/api/brand-logo?apikey=JjZNCM09grxvXLEZmJxl17iENpW&text=ZEKS%20API&type=1{match[1]}`, { responseType:  arraybuffer  })
 
     await message.client.sendMessage(message.jid,Buffer.from(webimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption:  :) })
 
