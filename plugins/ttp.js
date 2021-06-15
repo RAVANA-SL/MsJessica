@@ -364,7 +364,7 @@ Asena.addCommand({pattern: 'snow ?(.*)', fromMe: false, dontAddCommandList: true
 
     }));
 
-   Asena.addCommand({pattern:  blogo ?(.*) , fromMe: false, dontAddCommandList: true}, (async (message, match) => {
+   Asena.addCommand({pattern: 'blogo ?(.*) , fromMe: false, dontAddCommandList: true}, (async (message, match) => {
 
     if (match[1] ===   ) return await message.client.sendMessage(message.jid,NEED_WORD);
 
