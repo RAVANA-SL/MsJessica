@@ -95,7 +95,7 @@ Author, Base, Bug Fixes, Modules | Author, Base, Bug Fixes, Modules | Bug Fixes,
 
 ## Thanks To
 - [@adiwajshing](https://github.com/adiwajshing) for coded [Baileys](https://github.com/adiwajshing/Baileys) 
-- [@TOXIC DEVIL](https://github.com/TOXIC-DEVIL) for help & advancing
+- [@TOXIC DEVIL](https://github.com/TOXIC-DEVIL) special thanks for help & advancing
 - [@kappithannemo](https://github.com/kappithannemo) for this coded
 -  [@phaticusthiccy](https://github.com/phaticusthiccy) for the bots mainframe
 - Translators
