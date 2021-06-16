@@ -16,12 +16,6 @@
 
 </div>
 
-<p align="center">
-
-    Project of X-Troid - Makes it easy and fun to use Whatsapp. Also first Sinhala userbot for Whatsapp.
-
-    <br>
-
 ```
 Based On:
 Asena; Asena UserBot,
