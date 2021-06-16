@@ -7,6 +7,21 @@
 - [@TOXIC DEVIL](https://github.com/TOXIC-DEVIL)
 - [@kappithannemo](https://github.com/kappithannemo)
 
+<h1 align="center"><b> 🎀Ms Jessica tHe lovly whatsapp BOT🎀  </b></h1>
+<div align="center">
+
+  <img src="https://telegra.ph/file/9c351d7a5592c3fefa235.jpg" width="130" height="210">
+
+  <h1>A modified Version of 🐺 WhatsAsena Duplicated</h1>
+
+</div>
+
+<p align="center">
+
+    Project of X-Troid - Makes it easy and fun to use Whatsapp. Also first Sinhala userbot for Whatsapp.
+
+    <br>
+
 ```
 Based On:
 Asena; Asena UserBot,
