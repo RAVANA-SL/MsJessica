@@ -25,20 +25,11 @@ Asena; Asena UserBot,
 **WhatsAsena,** is a WhatsApp helper bot written by [Yusuf Usta](https://github.com/Quiec) and edited by [Phaticusthiccy](https://github.com/phaticusthiccy). Does not log into your account It is written on WhatsApp Web API.
 
 ## Setup
-### The Hard Method(Not Supported for this version!!)
-```js
-$ git clone https://github.com/MrChaby/MsJessica.git
-$ cd MsJessica
-$ npm i
-$ npm audut fix
-$ node qr.js
-$ nano Config.env
-// Config.env oluşturun ve düzenleyin.
-// Config.env create and edit.
-$ node bot.js
-```
+## Not For Everyone. Only Me😒!!)
 
-## WhatsAsena Features
+😂👀💔
+
+## Msjessica Features
 
 | All Features 📢|Available ☑️|Version 🔎|
 | ------------- | ------------ | ---------- |
@@ -68,7 +59,7 @@ $ node bot.js
 | Scam Actions|✅|1.3|
 | Scrapers|✅|1.5|
 | Spammer|✅|1.4|
-| Speedtest|🛠️|1.6|
+| Speedtest|✔|1.6|
 | Sticker Maker|✅|1.0|
 | Tagall|✅|1.0|
 | Unvoice|✅|1.3|
